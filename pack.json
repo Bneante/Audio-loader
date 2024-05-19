@@ -1,0 +1,10 @@
+{
+  "name": "Bakugan Battle Brawler park theme",
+  "description": "Simply the park theme from the official bakugan battle brawlers game. All credits to Activision",
+  "author": "Bneante",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
